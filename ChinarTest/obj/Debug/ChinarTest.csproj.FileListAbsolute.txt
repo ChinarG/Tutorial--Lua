@@ -1,0 +1,10 @@
+D:\Unity Files\VS Assets\ChinarTest\ChinarTest\bin\Debug\ChinarTest.exe.config
+D:\Unity Files\VS Assets\ChinarTest\ChinarTest\bin\Debug\ChinarTest.exe
+D:\Unity Files\VS Assets\ChinarTest\ChinarTest\bin\Debug\ChinarTest.pdb
+D:\Unity Files\VS Assets\ChinarTest\ChinarTest\bin\Debug\LuaInterface.dll
+D:\Unity Files\VS Assets\ChinarTest\ChinarTest\obj\Debug\ChinarTest.csproj.CoreCompileInputs.cache
+D:\Unity Files\VS Assets\ChinarTest\ChinarTest\obj\Debug\ChinarTest.exe
+D:\Unity Files\VS Assets\ChinarTest\ChinarTest\obj\Debug\ChinarTest.pdb
+D:\Unity Files\VS Assets\ChinarTest\ChinarTest\bin\Debug\Chinar.lua
+D:\Unity Files\VS Assets\ChinarTest\ChinarTest\bin\Debug\ChinarClass.lua
+D:\Unity Files\VS Assets\ChinarTest\ChinarTest\obj\Debug\ChinarTest.csprojResolveAssemblyReference.cache
